@@ -1,0 +1,36 @@
+a {
+	text-decoration: none;
+	color: white;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin: 20px 0;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+	background-color: #3498db;
+	color: #fff;
+}
+
+th {
+	padding: 15px;
+	text-align: left;
+
+}
+
+tbody tr:nth-child(odd) {
+
+}
+
+td {
+	padding: 10px;
+}
+
+tbody tr:hover {
+	background-color: #757575;
+	transition: background-color 0.3s ease;
+	cursor: pointer;
+}

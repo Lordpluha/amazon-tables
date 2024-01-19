@@ -1,0 +1,188 @@
+{
+	"Accounts": [
+		{
+			"accountId": "1",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858760,
+			"profileIds": ["1", "2"]
+		},
+		{
+			"accountId": "2",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858761,
+			"profileIds": ["3", "4"]
+		},
+		{
+			"accountId": "3",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858762,
+			"profileIds": ["5", "6"]
+		},
+		{
+			"accountId": "4",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858763,
+			"profileIds": ["1", "2"]
+		},
+		{
+			"accountId": "5",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858764,
+			"profileIds": ["3", "4"]
+		},
+		{
+			"accountId": "6",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858765,
+			"profileIds": ["5", "6"]
+		},
+		{
+			"accountId": "7",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858766,
+			"profileIds": ["1", "2"]
+		},
+		{
+			"accountId": "8",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858767,
+			"profileIds": ["3", "4"]
+		},
+		{
+			"accountId": "9",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858768,
+			"profileIds": ["5", "6"]
+		},
+		{
+			"accountId": "10",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858766,
+			"profileIds": ["1", "2"]
+		},
+		{
+			"accountId": "11",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858767,
+			"profileIds": ["3", "4"]
+		},
+		{
+			"accountId": "12",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858768,
+			"profileIds": ["5", "6"]
+		},
+		{
+			"accountId": "13",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858766,
+			"profileIds": ["1", "2"]
+		},
+		{
+			"accountId": "14",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858767,
+			"profileIds": ["3", "4"]
+		},
+		{
+			"accountId": "15",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858768,
+			"profileIds": ["5", "6"]
+		},
+		{
+			"accountId": "16",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858766,
+			"profileIds": ["1", "2"]
+		},
+		{
+			"accountId": "17",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858767,
+			"profileIds": ["3", "4"]
+		},
+		{
+			"accountId": "18",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858768,
+			"profileIds": ["5", "6"]
+		},
+		{
+			"accountId": "19",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858766,
+			"profileIds": ["1", "2"]
+		},
+		{
+			"accountId": "20",
+			"email": "test@gmail.com",
+			"authToken": "testToken",
+			"creationDate": 1705497858767,
+			"profileIds": ["3", "4"]
+		}
+	],
+	"Profiles": [
+		{
+			"profileId": "1",
+			"country": "America1",
+			"marketplace": "Amazon1",
+			"campaignIds": ["1", "2"]
+		},
+		{
+			"profileId": "2",
+			"country": "America2",
+			"marketplace": "Amazon2",
+			"campaignIds": ["3", "4"]
+		},
+		{
+			"profileId": "3",
+			"country": "America3",
+			"marketplace": "Amazon3",
+			"campaignIds": ["1", "2"]
+		},
+		{
+			"profileId": "4",
+			"country": "America4",
+			"marketplace": "Amazon4",
+			"campaignIds": ["3", "4"]
+		},
+		{
+			"profileId": "5",
+			"country": "America5",
+			"marketplace": "Amazon5",
+			"campaignIds": ["1", "2"]
+		},
+		{
+			"profileId": "6",
+			"country": "America6",
+			"marketplace": "Amazon6",
+			"campaignIds": ["3", "4"]
+		}
+	],
+	"Campaigns": [
+		{ "campaignId": "1", "clicks": 10, "cost": 50, "date": 1705497858760 },
+		{ "campaignId": "2", "clicks": 10, "cost": 50, "date": 1705497858760 },
+		{ "campaignId": "3", "clicks": 10, "cost": 50, "date": 1705497858760 },
+		{ "campaignId": "4", "clicks": 10, "cost": 50, "date": 1705497858760 }
+	]
+}
